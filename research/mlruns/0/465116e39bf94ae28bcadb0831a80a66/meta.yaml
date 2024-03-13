@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NoorNahiyanB/Downloads/Machine%20Learning%20iNeuron/iNeuron/Projects%20Deployment/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/465116e39bf94ae28bcadb0831a80a66/artifacts
+end_time: 1710036043829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 465116e39bf94ae28bcadb0831a80a66
+run_name: rogue-kit-525
+run_uuid: 465116e39bf94ae28bcadb0831a80a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710036040288
+status: 3
+tags: []
+user_id: NoorNahiyanB

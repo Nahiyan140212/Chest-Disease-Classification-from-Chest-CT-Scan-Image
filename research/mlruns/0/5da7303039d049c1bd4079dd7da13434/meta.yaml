@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NoorNahiyanB/Downloads/Machine%20Learning%20iNeuron/iNeuron/Projects%20Deployment/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/5da7303039d049c1bd4079dd7da13434/artifacts
+end_time: 1710036146418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da7303039d049c1bd4079dd7da13434
+run_name: mysterious-hawk-895
+run_uuid: 5da7303039d049c1bd4079dd7da13434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710036143402
+status: 3
+tags: []
+user_id: NoorNahiyanB

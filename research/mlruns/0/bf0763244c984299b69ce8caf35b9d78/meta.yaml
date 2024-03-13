@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NoorNahiyanB/Downloads/Machine%20Learning%20iNeuron/iNeuron/Projects%20Deployment/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/bf0763244c984299b69ce8caf35b9d78/artifacts
+end_time: 1710036094141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf0763244c984299b69ce8caf35b9d78
+run_name: rebellious-conch-942
+run_uuid: bf0763244c984299b69ce8caf35b9d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710036091083
+status: 3
+tags: []
+user_id: NoorNahiyanB

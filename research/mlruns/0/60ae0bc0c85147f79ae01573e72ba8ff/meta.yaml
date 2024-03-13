@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NoorNahiyanB/Downloads/Machine%20Learning%20iNeuron/iNeuron/Projects%20Deployment/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/60ae0bc0c85147f79ae01573e72ba8ff/artifacts
+end_time: 1710036116110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ae0bc0c85147f79ae01573e72ba8ff
+run_name: unruly-finch-469
+run_uuid: 60ae0bc0c85147f79ae01573e72ba8ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710036113041
+status: 3
+tags: []
+user_id: NoorNahiyanB

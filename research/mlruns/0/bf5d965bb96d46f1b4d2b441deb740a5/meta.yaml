@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NoorNahiyanB/Downloads/Machine%20Learning%20iNeuron/iNeuron/Projects%20Deployment/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/bf5d965bb96d46f1b4d2b441deb740a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf5d965bb96d46f1b4d2b441deb740a5
+run_name: beautiful-jay-363
+run_uuid: bf5d965bb96d46f1b4d2b441deb740a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710283718538
+status: 1
+tags: []
+user_id: NoorNahiyanB

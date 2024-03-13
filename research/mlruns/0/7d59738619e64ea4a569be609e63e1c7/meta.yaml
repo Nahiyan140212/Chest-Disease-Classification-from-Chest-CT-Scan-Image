@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NoorNahiyanB/Downloads/Machine%20Learning%20iNeuron/iNeuron/Projects%20Deployment/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/7d59738619e64ea4a569be609e63e1c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d59738619e64ea4a569be609e63e1c7
+run_name: tasteful-kit-301
+run_uuid: 7d59738619e64ea4a569be609e63e1c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710283960114
+status: 1
+tags: []
+user_id: NoorNahiyanB
