@@ -31,8 +31,8 @@ def home():
 @app.route("/train", methods=['GET','POST'])
 @cross_origin()
 def trainRoute():
-    # os.system("python main.py")
-    os.system("dvc repro")
+    # os.system("python main.py") #If we don't want to track the pipeline then use this instead
+    os.system("dvc repro") #We want to track the pipeline thats why we are using this
     return "Training done successfully!"
 
 
